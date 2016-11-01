@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>Programming using the MEAN stack</title>
+<date>2016-11-02</date>
+</info>
+<chapter xml:id="introduction">
+<title>Introduction</title>
+
+</chapter>
+<chapter xml:id="installation">
+<title>Installation</title>
+
+</chapter>
+<chapter xml:id="working_with_files">
+<title>Working with files</title>
+<programlisting language="javascript" linenumbering="unnumbered"></programlisting>
+</chapter>
+</book>

@@ -1,0 +1,8 @@
+== Preface
+
+Chapter 1::
+  A Javascript refresher. Ideally, you will approach the book with book with some Javascript experience
+
+Chapter 2::
+
+

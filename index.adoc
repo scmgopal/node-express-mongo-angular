@@ -3,7 +3,7 @@
 
 = Programming using the MEAN stack
 
-
+include::chapters/preface.adoc[]
 include::chapters/node.adoc[]
 include::chapters/express.adoc[]
 
